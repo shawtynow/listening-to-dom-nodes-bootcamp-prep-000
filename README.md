@@ -1,4 +1,4 @@
-https# Interacting with the DOM via JavaScript - Codealong
+leahttps# Interacting with the DOM via JavaScript - Codealong
 
 ## Problem Statement
 
